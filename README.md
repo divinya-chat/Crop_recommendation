@@ -1,2 +1,2 @@
-# Crop_recommendation
-Machine learning-based crop recommendation and market route optimization system for improving agricultural productivity and profitability.
+# Crop recommendation and Optimal route for market access
+Crop Recommendation Systems use machine learning to help farmers choose optimal crops. SVM is commonly used for its high prediction accuracy. It analyzes soil quality, weather, and historical crop data. LSTM can improve  predictions by capturing time-based data patterns. Its memory capability helps identify trends over growing seasons. Adding ACO helps locate the most profitable farming regions. ACO analyzes data to find high-yield potential areas. Combining SVM, LSTM, and ACO boosts system efficiency. Farmers get better crop choices and location insights. This leads to increased productivity and profitability.
